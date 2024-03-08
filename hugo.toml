@@ -1,4 +1,4 @@
-baseurl      = "http://localhost"
+baseurl      = "https://logan-roelofs.github.io/Blog"
 title        = "My Blog"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
